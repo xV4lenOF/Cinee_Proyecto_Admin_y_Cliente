@@ -1,0 +1,3 @@
+Ejecuta descargar_mysql_connector.bat una vez para preparar lib/mysql-connector-j-9.7.0.jar.
+Después abre Cin_Integrado en NetBeans y usa Clean and Build.
+La conexión se comparte con Cinee Admin mediante %USERPROFILE%\.cinee.properties.
